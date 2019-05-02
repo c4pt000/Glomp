@@ -12,4 +12,5 @@ yum install gnome-sharp
 mono bin/Release/glomp.exe 
 
 
-https://github.com/c4pt000/Glomp<p align="center"><img src="https://i.imgur.com/vAIXcgd.png" width="800"></p>
+
+<p align="center"><img src="https://i.imgur.com/vAIXcgd.png" width="800"></p>
