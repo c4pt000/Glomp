@@ -3,3 +3,10 @@
 So far only worked on in monodevelop on linux, open the .sln file in monodevelop and away you go!
 
 Enjoy for now, more info coming soon
+
+
+
+yum install gnome-sharp
+
+
+mono bin/Release/glomp.exe 
