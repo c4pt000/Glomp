@@ -6,10 +6,9 @@ Enjoy for now, more info coming soon
 
 
 
-yum install gnome-sharp
+* yum install gnome-sharp
 
-
-mono bin/Release/glomp.exe 
+* mono bin/Release/glomp.exe 
 
 
 
