@@ -27,8 +27,3 @@ Enjoy for now, more info coming soon
 
 
 
- if you found this useful, anything helps
-
-1C4XqNoP9QMPQicKBW4R4Dfmpz67YN7qCW
-
-![s1](https://i.imgur.com/MVirCFO.png)
