@@ -1,6 +1,8 @@
-git clone https://github.com/c4pt000/Glomp
-<br>
+# Fedora 31
+
+```git clone https://github.com/c4pt000/Glomp
 cd Glomp
+```
 <br>
 <br>
 <br>
