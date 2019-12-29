@@ -1,10 +1,12 @@
-# Fedora 31
 
-```git clone https://github.com/c4pt000/Glomp
+```
+git clone https://github.com/c4pt000/Glomp
 cd Glomp
 ```
 <br>
 <br>
+# Fedora 31
+
 <br>
 sh build-pkgs-and-deploy.sh
 <br>
