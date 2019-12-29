@@ -1,3 +1,19 @@
+git clone https://github.com/c4pt000/Glomp
+<br>
+cd Glomp
+<br>
+<br>
+<br>
+sh build-pkgs-and-deploy.sh
+<br>
+mono bin/Debug/glomp.exe
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 3d File Manager, currently called glomp (GL object managing... processor?)
 
 So far only worked on in monodevelop on linux, open the .sln file in monodevelop and away you go!
